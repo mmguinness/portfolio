@@ -9,7 +9,7 @@ The source code for this website lives in a Git repository [stored on GitHub](ht
 
 I also used Jekyll, a static site generator to add a header and footer to my pages, it takes Markdown and HTML files and creates pages based on my layout.
 
-Each time I push a new commit to the main branch, GitHub Pages sees this and starts a new build, which generates a new set of static webpages.
+Each time I push a new commit to the main branch, GitHub Pages sees this and starts a new build, which generates a new set of static web pages.
 
 Hugo and Netlify seemed like another good option for hosting a simple static website, for ease I went with a Ruby based option, as I am more familiar with this environment. 
 
