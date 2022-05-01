@@ -6,7 +6,7 @@ permalink: /CV/
 
  [Education](#education) - [Employment](#employment) - [Interests](#interests) 
 
-Enthusiastic junior developer with a **passion for making things**. I bring project planning, requirement analysis, critical thinking and iterative work methods from my previous **training in architecture**. This combined with my experience working as an architect, and having to effectively collaborate on complex projects, makes me comfortable and adaptable in new teams.
+I’m a former architect who **loves building things** with code. I bring project planning, requirement analysis, critical thinking and iterative work methods from my previous training in architecture. Working over the last ten years, I have learnt to collaborate and lead on complex projects, working closely with the design team, consultants, contractors, clients, stakeholders and the public.
 
 Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. 
 
@@ -14,7 +14,8 @@ Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootca
 
 Languages: _Ruby, JavaScript, SQL, HTML, CSS & React Library_ <br>
 Testing: _Rspec, Capybara, Jest, Cypress_<br>
-Development Frameworks: _Sinatra, NodeJS, Express_<br>
+Development Frameworks: _Sinatra, Rackup, NodeJS, Express_<br>
+Databases: _SQL, Postgresql, MongoDb, Mongoose_<br>
 Comfortable using Git and working with CLI
 
 Makers Academy **16 week immersive full-stack engineering bootcamp** with a strong focus on:
@@ -51,8 +52,8 @@ Selected **projects** to demonstrate what I have learnt:
 ## Education
 
 2022 | Full-Stack Engineering Bootcamp - **Makers Academy** | London, UK (remote) <br>
-2015 | Postgraduate Diploma in Professional Practice - **University of Westminster** | London, UK <br>
-2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture** | DIT Bolton Street, Dublin, Ireland <br>
+2014- 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster** | London, UK <br>
+2006 - 2011 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture** | DIT Bolton Street, Dublin, Ireland <br>
 
 
 ## Employment
