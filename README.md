@@ -1,3 +1,0 @@
-mmguinness portfolio website
-
-# Homepage  
