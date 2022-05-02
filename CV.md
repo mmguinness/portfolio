@@ -6,8 +6,7 @@ permalink: /CV/
 
  [Education](#education) - [Employment](#employment) - [Interests](#interests) 
 
-I’m a former architect who **loves building things** with code. I bring project planning, requirement analysis, critical thinking and iterative work methods from my previous training in architecture. Working over the last ten years, I have learnt to collaborate and lead on complex projects, working closely with the design team, consultants, contractors, clients, stakeholders and the public.
-
+I’m a former architect who loves building things with code. <br>
 Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. 
 
 ## Tech Experience
@@ -39,21 +38,21 @@ _(which I found helpful and would recommend to anyone starting to learn to code)
 * Introduction to Coding with Ruby - [Udemy](https://www.udemy.com/course/newbie-to-ruby/) <br>
 * Practical Programming for Total Beginners - [Automate the boring stuff with Python](https://automatetheboringstuff.com/) <br>
 
-Selected **projects** to demonstrate what I have learnt:
+Student projects from Makers Academy to demonstrate what I have learnt:
 
-| Name                                                                                                                                           | Description                                                                                                                                                                                                             | Timeframe              | Tech                                           |
+| GitHub                                                                                                                                           | About                                                                                                                                                                                                            | Timeframe              | Tech Stack                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------- |
-| **[Get me out of here!](https://github.com/mmguinness/escape-room)**        | An interactive escape room game to explore our front-end capabilities. Play [_get me out of here!_](https://get-me-out-of-here-game.herokuapp.com/)                                                                                                                                      | Two week group project | JavaScript, NodeJS, ReactJS, HTML, CSS, Heroku                     |
-| **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)**                                                                       | A command line app to emulate a bank account.                                                                                                  | Solo project   | Ruby, RSpec, Rubocop                           |
-| **[Chitter](https://github.com/mmguinness/chitter-challenge)**                                                                            | A Twitter clone with SQL database.                                                                                                                                                                                       | Weekend solo project   | Ruby, Sinatra, Capybara, PostgreSQL, Rspec, HTML, Bulma |
-| **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)**                                                             | Count and sum the scores of a bowling game for one player.                                                                                                                                                              | Weekend solo project   | Ruby, Rspec, Rubocop      |
-| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)**  |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../public/RockPaperScissors.png" alt="RPS" width="120"> | Weekend solo project  | Ruby, Sinatra, Capybara, Rspec, HTML, Bulma  |
+| **[Get me out of here!](https://github.com/mmguinness/escape-room)**        | We designed a short interactive escape room game to explore our front-end capabilities. Play [_get me out of here!_](https://get-me-out-of-here-game.herokuapp.com/)                                                                                                                                      | Two week group project | JavaScript, NodeJS, ReactJS, HTML, CSS, Heroku                     |
+| **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)**                                                                       | A command line app to emulate a bank account. Practice for OOP and TDD principles.                                                                                                 | Solo project   | Ruby, RSpec, Rubocop                           |
+| **[Chitter](https://github.com/mmguinness/chitter-challenge)**                                                                            | A Twitter clone with SQL database. Practice including a database into a web application.                                                                                                                                                                                       | Weekend solo project   | Ruby, Sinatra, Capybara, PostgreSQL, Rspec, HTML, Bulma |
+| **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)**                                                             | Count and sum the scores of a bowling game for one player. Solo challenge to write more complex logic to calculate score.                                                                                                                                                              | Weekend solo project   | Ruby, Rspec, Rubocop      |
+| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)**  |  My first web application. <br> <img src="../public/RockPaperScissors.png" alt="RPS" width="120"> | Weekend solo project  | Ruby, Sinatra, Capybara, Rspec, HTML, Bulma  |
 
 ## Education
 
-2022 | Full-Stack Engineering Bootcamp - **Makers Academy** | London, UK (remote) <br>
-2014- 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster** | London, UK <br>
-2006 - 2011 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture** | DIT Bolton Street, Dublin, Ireland <br>
+2022 | Full-Stack Engineering Bootcamp <br> **Makers Academy** | London, UK <br> (Remote) <br>
+2014- 2015 | Postgraduate Diploma in Professional Practice <br> **University of Westminster** | London, UK <br>
+2006 - 2011 | 2:1 BArch (Hons) Architecture <br> **Dublin School of Architecture** | DIT Bolton Street, <br> Dublin, Ireland <br>
 
 
 ## Employment
