@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
- [Education](#education) - [Employment](#employment) - [Interests](#interests) 
+[LinkedIn](https://www.linkedin.com/in/mcguinnessmarie/) - [Tech](#tech) - [Education](#education) - [Employment](#employment) - [Interests](#interests) 
 
 I’m a former architect who loves designing and building things, recently with code. I bring a keen eye for detail, project planning, full-life-cycle thinking and iterative working methods. So far in my career, I have learnt to contribute and lead on large complex projects, working closely with design teams, consultants, building-contractors, clients, stakeholders and the public. 
 
