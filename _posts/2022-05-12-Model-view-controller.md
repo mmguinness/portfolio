@@ -6,7 +6,7 @@ categories: portfolio
 ---
 
 <p align="center">
-<img src="/public/Mvp.png" alt="MVP" width="800" />
+<img src="../public/Mvp.png" alt="MVP" width="800" />
 </p>
 
 Model View Controller (MVC) sketch above from my notes for week 3 of Makers Academy. It is nice to look back and realise how far I have come from needing to map out every step of the development process.
@@ -16,7 +16,7 @@ To ensure my understanding of key concepts like the common MVC software developm
 I sketched up a few wireframes and ideas for my MVP. At first I want it to be really simple, just a bulletin-board of the current book, and a history of what has been read. After I achieve this I would like to add a sign-in option where my friends can log in and add their own book suggestions. This could be a good opportunity to add a database to store this info and ensure everyone can access and contribute to the site.
 
 <p align="center">
-<img src="/public/Mvp-wireframe.png" alt="MVP" width="800" />
+<img src="../public/Mvp-wireframe.png" alt="MVP" width="800" />
 </p>
 
 For practice, I have chosen JavaScript as my base language. Starting with Node, to setup and manage my project environment, I used Express (web framework for Node.js), ESBuild (to bundle my files), Jest (for testing), and Bulma (for html styling).  
@@ -26,7 +26,7 @@ You can see the work-in-process site on [GitHub here](https://github.com/mmguinn
 ## Model
 
 <figure>
-  <img src="/public/Mvp-model.png" 
+  <img src="../public/Mvp-model.png" 
   alt="Model" 
   width="100%">
 </figure>
@@ -34,7 +34,7 @@ You can see the work-in-process site on [GitHub here](https://github.com/mmguinn
 ## View
 
 <figure>
-  <img src="/public/Mvp-view.png" 
+  <img src="../public/Mvp-view.png" 
   alt="View" 
   width="100%">
 </figure>
@@ -42,7 +42,7 @@ You can see the work-in-process site on [GitHub here](https://github.com/mmguinn
 ## Controller
 
 <figure>
-  <img src="/public/Mvp-controller.png" 
+  <img src="../public/Mvp-controller.png" 
   alt="Controller" 
   width="100%">
 </figure>
