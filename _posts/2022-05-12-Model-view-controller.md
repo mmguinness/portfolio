@@ -11,7 +11,7 @@ categories: portfolio
 
 Model View Controller (MVC) sketch above from my notes for week 3 of Makers Academy. It is nice to look back and realise how far I have come from needing to map out every step of the development process.
 
-To ensure my understanding of key concepts like the common MVC software development pattern, I have started a [new project](https://github.com/mmguinness/remote-book-club). It is a simple website to host a remote bookclub. 
+To ensure my understanding of concepts like the common MVC software development pattern, I have started a [new project](https://github.com/mmguinness/remote-book-club). It is a simple website to host a remote bookclub. 
 
 I sketched up a few wireframes and ideas for my MVP. At first I want it to be really simple, just a bulletin-board of the current book, and a history of what has been read. After I achieve this I would like to add a sign-in option where my friends can log in and add their own book suggestions. This could be a good opportunity to add a database to store this info and ensure everyone can access and contribute to the site.
 
@@ -21,7 +21,7 @@ I sketched up a few wireframes and ideas for my MVP. At first I want it to be re
 
 For practice, I have chosen JavaScript as my base language. Starting with Node, to setup and manage my project environment, I used Express (web framework for Node.js), ESBuild (to bundle my files), Jest (for testing), and Bulma (for html styling).  
 
-You can see the work-in-process site on [GitHub here](https://github.com/mmguinness/remote-book-club). Some screenshots of my working files below, showing my test driven development (TDD) process. All information about the books is hard-coded for now and added to the model object in the main (controller) file.
+You can see the work-in-process site on [GitHub here](https://github.com/mmguinness/remote-book-club). Some screenshots of my working files below, showing my test driven development (TDD) process. All information about the books is hard-coded for now and to the model object in the main (controller) file.
 
 ## Model
 
