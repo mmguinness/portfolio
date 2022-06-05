@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="../public/hobbies/Profile.png" alt="profile image" width="200px" border-radius="50%">  I'm a former architect who is moving into software development.
+<img src="../public/hobbies/Profile.png" alt="profile image" width="200px" border-radius="50%">  
+
+I'm a former architect who is moving into software development.
 
 When Covid hit, suddenly I had a completely new routine. Every morning instead of commuting I would go for a walk in Phoenix Park with my brother, he became my new colleague in a roundabout way. He works in software development and through our conversations I learnt about what he does day-to-day, and how things work in the tech industry. As a person who looks for efficiency and appreciates well designed things, I was intrigued.
 
