@@ -1,17 +1,17 @@
 :root {
   --transparent: rgba(255, 255, 255, 0);
-  --paper: #ecece4;
-  --paper-dark: #b5b5ac;
+  --pink: #ecece4;
+  --pink-dark: #b5b5ac;
 }
 
 .container {
-  background: #f3b5b5;
+  background: lightsalmon
   padding: 50px;
 }
 
-.paper {
-  --paper-color: var(--paper);
-  --paper-dark: var(--paper-dark);
+.pink {
+  --pink-color: var(--pink);
+  --pink-dark: var(--pink-dark);
   --shadow-size: 1px;
   --transparent: rgba(236, 178, 186, 0);
 }
@@ -20,18 +20,18 @@
   position: relative;
   background: linear-gradient(
       to bottom right,
-      var(--paper-dark),
+      var(--pink-dark),
       20%,
       var(--transparent)
     ),
-    var(--paper-color);
+    var(--pink-color);
   width: 600px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: "Caveat", cursive;
   font-size: 2rem;
-  box-shadow: var(--shadow-size) var(--shadow-size) 2px var(--paper-dark);
+  box-shadow: var(--shadow-size) var(--shadow-size) 2px var(--pink-dark);
   margin: auto;
   margin-top: 50px;
 }
@@ -50,7 +50,7 @@
       to right,
       var(--transparent),
       50%,
-      var(--paper-dark),
+      var(--pink-dark),
       51%,
       var(--transparent)
     );

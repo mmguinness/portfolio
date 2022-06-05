@@ -8,15 +8,15 @@ Before moving into software development, I would make my portfolio with paper, a
 
 <div class="container">
 
-  <div class="paper portfoliopage">
+  <div class="pink portfoliopage">
     <img src="../public/pages/1.png" alt="page one" />
   </div>
 
-  <div class="paper portfoliopage">
+  <div class="pink portfoliopage">
     <img src="../public/pages/2.png" alt="page two" />
   </div>
 
-  <div class="portfoliopage paper">
+  <div class="portfoliopage pink">
     <img src="../public/pages/3.png" alt="page three" />
   </div>
 
