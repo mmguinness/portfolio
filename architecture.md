@@ -8,19 +8,13 @@ Before moving into software development, I would make my portfolio with paper, a
 
 <div class="container">
 
-  <img src="../public/pages/1.png" alt="page one" />
-
   <div class="portfoliopage">
     <img src="../public/pages/1.png" alt="page one" />
   </div>
 
-  <img src="../public/pages/2.png" alt="page two" />
-
   <div class="portfoliopage">
     <img src="../public/pages/2.png" alt="page two" />
   </div>
-
-  <img src="../public/pages/3.png" alt="page three" />
 
   <div class="portfoliopage">
     <img src="../public/pages/3.png" alt="page three" />
