@@ -40,7 +40,7 @@
   box-shadow: var(--shadow-size) var(--shadow-size) 2px var(--card-dark);
   margin: auto;
   margin-top: 50px;
-  border: solid 12px #f6f5ee;
+  border: solid 4px black;
 }
 
 .card::after {
@@ -48,7 +48,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  border: solid 12px #f6f5ee;
+  border: solid 4px black;
   background: linear-gradient(
       var(--transparent),
       50%,
