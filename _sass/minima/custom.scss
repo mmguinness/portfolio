@@ -1,55 +1,98 @@
 
-
-:root {
-  --transparent: rgba(255, 255, 255, 0);
-  --pink: #f5f5eb;
-  --pink-dark: #b5b5ac;
-}
-
-.pink {
-  --paper-color: var(--pink);
-  --paper-dark: var(--pink-dark);
-  --shadow-size: 1px;
-  --transparent: rgba(236, 178, 186, 0);
-}
-
 .portfoliopage {
   position: relative;
-  background: linear-gradient(
-      to bottom right,
-      var(--paper-dark),
-      20%,
-      var(--transparent)
-    ),
-    var(--paper-color);
-  min-width: 250px;
-  min-height: 130px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: "Caveat", cursive;
-  font-size: 2rem;
-  box-shadow: var(--shadow-size) var(--shadow-size) 2px var(--paper-dark);
-  margin: auto;
-  margin-top: 50px;
+  margin: 40px auto;
+  width: 400px;
+  height: 350px;
+  background: #efefef;
+  border-radius: 2px;
+}
+
+.portfoliopage::before,
+.portfoliopage::after {
+  content: '';
+  position: absolute;
+  bottom: 10px;
+  width: 40%;
+  height: 10px;
+  box-shadow: 0 5px 14px rgba(0,0,0,.7);
+  z-index: -1;
+  transition: all .3s ease-in-out;
+}
+
+.portfoliopage::before {
+  left: 15px;
+  transform: skew(-5deg) rotate(-5deg);
 }
 
 .portfoliopage::after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-      var(--transparent),
-      50%,
-      var(--transparent)
-    ),
-    linear-gradient(
-      to right,
-      var(--transparent),
-      50%,
-      var(--paper-dark),
-      51%,
-      var(--transparent)
-    );
+  right: 15px;
+  transform: skew(5deg) rotate(5deg);
 }
+
+.portfoliopage:hover::before,
+.portfoliopage:hover::after {
+  box-shadow: 0 2px 14px rgba(0,0,0,.4);
+}
+
+.portfoliopage:hover::before {
+  left: 5px;
+}
+
+.portfoliopage:hover::after {
+  right: 5px;
+}
+
+// :root {
+//   --transparent: rgba(255, 255, 255, 0);
+//   --pink: #f5f5eb;
+//   --pink-dark: #b5b5ac;
+// }
+
+// .pink {
+//   --paper-color: var(--pink);
+//   --paper-dark: var(--pink-dark);
+//   --shadow-size: 1px;
+//   --transparent: rgba(236, 178, 186, 0);
+// }
+
+// .portfoliopage {
+//   position: relative;
+//   background: linear-gradient(
+//       to bottom right,
+//       var(--paper-dark),
+//       20%,
+//       var(--transparent)
+//     ),
+//     var(--paper-color);
+//   min-width: 250px;
+//   min-height: 130px;
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   font-family: "Caveat", cursive;
+//   font-size: 2rem;
+//   portfoliopage-shadow: var(--shadow-size) var(--shadow-size) 2px var(--paper-dark);
+//   margin: auto;
+//   margin-top: 50px;
+// }
+
+// .portfoliopage::after {
+//   content: "";
+//   position: absolute;
+//   width: 100%;
+//   height: 100%;
+//   background: linear-gradient(
+//       var(--transparent),
+//       50%,
+//       var(--transparent)
+//     ),
+//     linear-gradient(
+//       to right,
+//       var(--transparent),
+//       50%,
+//       var(--paper-dark),
+//       51%,
+//       var(--transparent)
+//     );
+// }
