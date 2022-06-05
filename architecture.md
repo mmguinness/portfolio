@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Architecture
+title: Arch portfolio
 permalink: /arch-portfolio/
 ---
 
-Before moving into software development, I would make my portfolio with paper, as a bound booklet. Below I have taken my previous architecture portfolio, a selection of professional and student projects, and applied simple styling in CSS.
+Before moving into software development, my portfolio was paper-based, in the form of a small booklet. Below I have taken my previous architecture portfolio, a selection of professional and student projects, and applied simple styling in CSS.
 
 <body>
 
