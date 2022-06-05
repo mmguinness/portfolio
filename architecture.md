@@ -4,7 +4,7 @@ title: Architecture
 permalink: /arch-portfolio/
 ---
 
-Before moving into software development, I would make my portfolio with paper, as a little bound booklet. Below I have taken my previous architecture portfolio, a selection of professional and student projects, and re-presented it for online viewing using simple HTML and CSS styling.
+Before moving into software development, I would make my portfolio with paper, as a bound booklet. Below I have taken my previous architecture portfolio, a selection of professional and student projects, and applied simple styling in CSS.
 
 <body>
 
