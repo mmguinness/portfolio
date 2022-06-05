@@ -8,8 +8,10 @@ Before moving into software development, I would make my portfolio with paper, a
 
 <div>
 
-  <div class="card pink portfoliopage">
-    <img src="../public/pages/1.png" alt="page one" />
+  <div class="card">
+    <div class="pink portfoliopage">
+      <img src="../public/pages/1.png" alt="page one" />
+    </div>
   </div>
 
   <div class="card pink portfoliopage">
