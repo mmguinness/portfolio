@@ -4,4 +4,6 @@ _site
 .jekyll-metadata
 vendor
 
-**/.DS_Storegit 
+.DS_Store
+**/.DS_Store
+**/ss
