@@ -10,22 +10,16 @@ Below I have taken my previous portfolio, a selection of professional and studen
 
 <div class="container">
 
-  <img src="public/pages/1.png" alt="page one" width="300px"/>
-
   <div class="page">
-    <img src="public/pages/1.png" alt="page one" width="300px" />
+    <img src="../public/pages/1.png" alt="page one" width="300px" />
   </div>
 
-  <img src="public/pages/2.png" alt="page two" width="300px" />
-
   <div class="page">
-    <img src="public/pages/2.png" alt="page two" width="300px" />
+    <img src="../public/pages/2.png" alt="page two" width="300px" />
   </div>
 
-  <img src="public/pages/3.png" alt="page three" width="300px" />
-
   <div class="page">
-    <img src="public/pages/3.png" alt="page three" width="300px" />
+    <img src="../public/pages/3.png" alt="page three" width="300px" />
   </div>
 
 </div>
