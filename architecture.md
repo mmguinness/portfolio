@@ -1,25 +1,23 @@
 ---
 layout: page
-title: Arch portfolio
+title: Architecture
 permalink: /arch-portfolio/
 ---
 
-Before moving into software development, I would make my portfolio with paper, as a little bound booklet. There is something really satisfying about seeing the work presented on paper. 
-
-Below I have taken my previous portfolio, a selection of professional and student projects, and re-presented it for online viewing using simple HTML and CSS styling. [Reference](https://codepen.io/lynnandtonic/pen/PoZpjOr)
+Before moving into software development, I would make my portfolio with paper, as a little bound booklet. Below I have taken my previous architecture portfolio, a selection of professional and student projects, and re-presented it for online viewing using simple HTML and CSS styling. Styling tips referenced from [here](https://codepen.io/lynnandtonic/pen/PoZpjOr).
 
 <div class="container">
 
   <div class="page">
-    <img src="../public/pages/1.png" alt="page one" width="300px" />
+    <img src="../public/pages/1.png" alt="page one" />
   </div>
 
   <div class="page">
-    <img src="../public/pages/2.png" alt="page two" width="300px" />
+    <img src="../public/pages/2.png" alt="page two" />
   </div>
 
   <div class="page">
-    <img src="../public/pages/3.png" alt="page three" width="300px" />
+    <img src="../public/pages/3.png" alt="page three" />
   </div>
 
 </div>
