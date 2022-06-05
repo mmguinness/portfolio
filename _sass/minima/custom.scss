@@ -13,7 +13,6 @@
 
 .portfoliopage {
   position: relative;
-  border: solid #b09d97;
   background: linear-gradient(
       to bottom right,
       var(--paper-dark),
@@ -28,7 +27,7 @@
   justify-content: center;
   font-family: "Caveat", cursive;
   font-size: 2rem;
-  portfoliopage-shadow: var(--shadow-size) var(--shadow-size) 2px var(--paper-dark);
+  box-shadow: var(--shadow-size) var(--shadow-size) 2px var(--paper-dark);
   margin: auto;
   margin-top: 50px;
 }
