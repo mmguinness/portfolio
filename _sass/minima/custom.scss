@@ -45,7 +45,7 @@
   // linear-gradient(-265deg, rgba(0,0,0,0.2), transparent 10%), 
   // linear-gradient(-5deg, rgba(0,0,0,0.2), transparent 15%), 
   // linear-gradient(266deg, rgba(0,0,0,0.2), transparent 10%);
-  background-size: 50% 100%, 100% 50%;
+  background-size: 50% 100%, 100% 33.3333%;
   // , 100% 33.3333%, 50% 33.3333%, 50% 33.3333%, 50% 33.3333%, 50% 33.3333%, 50% 33.3333%, 50% 33.3333%, 50% 33.3333%
   background-position: right top;
   // , left center, left bottom, left top, left top, right top, left center, right center, right center, left bottom
@@ -53,6 +53,12 @@
 
 .container {
   width: 650px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+  gap: 60px 30px;
+  margin: 0 auto;
 }
 .container > img {
   width: 250px;
