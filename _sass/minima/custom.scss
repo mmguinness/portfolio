@@ -1,7 +1,12 @@
 :root {
   --transparent: rgba(255, 255, 255, 0);
-  --paper: #f5f5eb;
+  --paper: #ecece4;
   --paper-dark: #b5b5ac;
+}
+
+.container {
+  background: #f3b5b5;
+  padding: 50px;
 }
 
 .paper {
@@ -20,8 +25,7 @@
       var(--transparent)
     ),
     var(--paper-color);
-  min-width: 250px;
-  min-height: 130px;
+  width: 600px;
   display: flex;
   align-items: center;
   justify-content: center;
