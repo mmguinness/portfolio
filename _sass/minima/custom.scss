@@ -52,12 +52,12 @@
 }
 
 .container {
-  width: 650px;
+  width: 500px;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   align-items: center;
   justify-items: center;
-  gap: 60px 30px;
+  gap: 60px;
   margin: 0 auto;
 }
 .container > img {
