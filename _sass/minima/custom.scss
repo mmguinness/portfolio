@@ -1,67 +1,8 @@
-:root {
-  --transparent: rgba(255, 255, 255, 0);
-  --pink: #ecece4;
-  --pink-dark: #b5b5ac;
-}
-
-.pink {
-  --pink-color: var(--pink);
-  --pink-dark: var(--pink-dark);
-  --shadow-size: 1px;
-  --transparent: rgba(236, 178, 186, 0);
-}
-
-.portfoliopage {
-  position: relative;
-  background: linear-gradient(
-      to bottom right,
-      var(--pink-dark),
-      20%,
-      var(--transparent)
-    ),
-    var(--pink-color);
-  width: 600px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: "Caveat", cursive;
-  font-size: 2rem;
-  box-shadow: var(--shadow-size) var(--shadow-size) 2px var(--pink-dark);
-  margin: auto;
-  margin-top: 50px;
-}
-
-.portfoliopage::after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-      var(--transparent),
-      50%,
-      var(--transparent)
-    ),
-    linear-gradient(
-      to right,
-      var(--transparent),
-      50%,
-      var(--pink-dark),
-      51%,
-      var(--transparent)
-    );
-}
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   width: 90%;
-  background: linear-gradient(
-    to bottom right,
-    var(#b5b5ac),
-    20%,
-    var(rgba(236, 178, 186, 0))
-  ),
-  var(#ecece4);
 }
 
 .card:hover {

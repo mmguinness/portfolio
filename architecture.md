@@ -9,16 +9,14 @@ Before moving into software development, I would make my portfolio with paper, a
 <div>
 
   <div class="card">
-    <div class="pink portfoliopage">
-      <img src="../public/pages/1.png" alt="page one" />
-    </div>
+    <img src="../public/pages/1.png" alt="page one" />
   </div>
 
-  <div class="card pink portfoliopage">
+  <div class="card">
     <img src="../public/pages/2.png" alt="page two" />
   </div>
 
-  <div class="card portfoliopage pink">
+  <div class="card">
     <img src="../public/pages/3.png" alt="page three" />
   </div>
 
