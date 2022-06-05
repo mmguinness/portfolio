@@ -2,8 +2,8 @@
 
 :root {
   --transparent: rgba(255, 255, 255, 0);
-    --pink: #ecb2ba;
-  --pink-dark: #c6939a;
+  --pink: #eedeef0;
+  --pink-dark: #e3e3de;
 }
 
 .pink {
@@ -11,13 +11,6 @@
   --paper-dark: var(--pink-dark);
   --shadow-size: 1px;
   --transparent: rgba(236, 178, 186, 0);
-}
-
-.blue {
-  --paper-color: #d5e0f9;
-  --paper-dark: #c2d0ea;
-  --shadow-size: 3px;
-  --transparent: rgba(213, 224, 249, 0);
 }
 
 .portfoliopage {

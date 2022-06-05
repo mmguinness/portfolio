@@ -8,7 +8,7 @@ Before moving into software development, I would make my portfolio with paper, a
 
 <div class="container">
 
-  <div class="blue portfoliopage">
+  <div class="pink portfoliopage">
     <img src="../public/pages/1.png" alt="page one" />
   </div>
 
@@ -16,7 +16,7 @@ Before moving into software development, I would make my portfolio with paper, a
     <img src="../public/pages/2.png" alt="page two" />
   </div>
 
-  <div class="portfoliopage">
+  <div class="portfoliopage pink">
     <img src="../public/pages/3.png" alt="page three" />
   </div>
 
