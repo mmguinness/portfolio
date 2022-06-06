@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Architecture portfolio"
-date:   2022-06-05 20:23:00 +0100
+title: "Architecture portfolio"
+date: 2022-06-05 20:23:00 +0100
 categories: portfolio
 ---
 
@@ -54,5 +54,7 @@ Architectural Assistant _(Sep 2012 to Aug 2015)_
   <div class="card pink">
     <img src="../../../../public/pages/10.png" alt="page ten" />
   </div>
+
+<br>
 
 For more project details, check out my [CV](https://mmguinness.github.io/portfolio/CV/#employment).
