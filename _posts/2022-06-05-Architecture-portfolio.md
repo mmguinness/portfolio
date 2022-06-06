@@ -46,9 +46,6 @@ Architectural Assistant _(Sep 2012 to Aug 2015)_
 <br>
 
 <h3>Student Projects</h3>
-  <div class="card pink">
-    <img src="../../../../public/pages/08.png" alt="page eight" />
-  </div>
 
   <div class="card pink">
     <img src="../../../../public/pages/09.png" alt="page nine" />
@@ -58,6 +55,4 @@ Architectural Assistant _(Sep 2012 to Aug 2015)_
     <img src="../../../../public/pages/10.png" alt="page ten" />
   </div>
 
-  <div class="card pink">
-    <img src="../../../../public/pages/11.png" alt="page eleven" />
-  </div>
+For more project details, check out my [CV](https://mmguinness.github.io/portfolio/CV/#employment).
