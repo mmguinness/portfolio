@@ -9,7 +9,7 @@ permalink: /about/
 </div>
 <br>
 
-### I'm a Dublin-based junior full-stack developer and registered architect, who loves designing and building things, recently with code. 
+### My name is Marie Mc Guinness, I'm a Dublin-based junior software engineer and architect, who loves designing and building things, recently with code. 
 
 I have contributed on a wide range of [project types](https://mmguinness.github.io/portfolio/portfolio/2022/06/05/Architecture-portfolio.html), most recently working with Metropolitan Workshop on the residential redevelopment of [Cromcastle Court and the Old Coal Yard](https://mmguinness.github.io/portfolio/CV/#employment) for Dublin City Council. After graduating from Dublin Institute of Technology, Bolton Street I moved to London for 4 years, where I worked in the education sector on specialist school buildings.
 
