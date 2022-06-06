@@ -23,8 +23,4 @@ Once I heard about someone who had completely changed their career through a cod
 
 <br>
 
-I am looking for a career that lets me work on interesting new projects and continue to learn.
-
-<br>
-
 _Profile image by [John Mc Guinness](https://www.johnmcguinness.art)_

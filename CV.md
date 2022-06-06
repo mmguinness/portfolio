@@ -4,21 +4,15 @@ title: CV
 permalink: /CV/
 ---
 
-### I’m a former architect who loves designing and building things, recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. I am looking for a career that lets me work on interesting new projects and continue to learn.
+### I’m a former architect who loves designing and building things, and a recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. I am looking for a career that lets me work on interesting new projects and continue to learn.
 
 I bring a keen eye for detail, project planning, full-life-cycle thinking and iterative working methods. So far in my career, I have learnt to contribute and lead on large complex projects, working closely with design teams, consultants, building-contractors, clients, stakeholders and the public. 
 
-
+<br> 
 
 [LinkedIn](https://www.linkedin.com/in/mcguinnessmarie/) - [Education](#education) - [Employment](#employment) - [Interests](#interests) 
 
 ## Tech Experience
-
-Languages: _Ruby, JavaScript, SQL, HTML, CSS & React Library_ <br>
-Testing: _Rspec, Capybara, Jest, Cypress_<br>
-Development Frameworks: _Sinatra, Rackup, NodeJS, Express_<br>
-Databases: _SQL, Postgresql, MongoDb, Mongoose_<br>
-Comfortable using Git and working with CLI
 
 Makers Academy **16 week immersive full-stack engineering bootcamp** with a strong focus on:
 
@@ -31,6 +25,12 @@ Makers Academy **16 week immersive full-stack engineering bootcamp** with a stro
 - Promotes self-learning, curiosity and a growth mindset
 
 I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge/blob/master/images/Object_Model_Diagram_02.png) weekend challenge.
+
+Languages: _Ruby, JavaScript, SQL, HTML, CSS & React Library_ <br>
+Testing: _Rspec, Capybara, Jest, Cypress_<br>
+Development Frameworks: _Sinatra, Rackup, NodeJS, Express_<br>
+Databases: _SQL, Postgresql, MongoDb, Mongoose_<br>
+Comfortable using Git and working with CLI
 
 Online courses & resources:<br>
 _(which I found helpful and would recommend to anyone starting to learn to code)_
