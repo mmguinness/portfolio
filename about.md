@@ -13,10 +13,7 @@ permalink: /about/
 
 <br>
 
-I have worked on a wide range of project types and architecture offices, most recently working with Metropolitan Workshop on the redevelopment of [Cromcastle Court and the Old Coal Yard](https://mmguinness.github.io/portfolio/CV/#employment) for Dublin City Council. I have experience leading large construction projects including design, coordination and management.
-
-
-After graduating from Dublin Institute of Technology, Bolton Street I moved to London for 4 years, where I began my career as an architectural assistant. I completed my Postgraduate Diploma in Professional Practice in the University of Westminster prior to returning to Dublin in 2017.
+### I have contributed on a wide range of project types, most recently working with Metropolitan Workshop on the redevelopment of [Cromcastle Court and the Old Coal Yard](https://mmguinness.github.io/portfolio/CV/#employment) for Dublin City Council. I have experience leading construction projects including design, coordination and management. After graduating from Dublin Institute of Technology, Bolton Street I moved to London for 4 years. I completed my Postgraduate Diploma in Professional Practice in the University of Westminster prior to returning to Dublin in 2017.
 
 <br>
 
@@ -29,7 +26,7 @@ Once I heard about someone who had completely changed their career through a cod
 
 <br>
 
-I am looking for a career that lets me work on interesting new projects and continue to learn.
+### I am looking for a career that lets me work on interesting new projects and continue to learn.
 
 <br>
 
