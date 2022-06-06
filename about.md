@@ -3,12 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-<figure>
-  <img src="../public/hobbies/Profile.png" 
-  alt="profile image" 
-  width="200px">
-  <figcaption>Sketch by John Mc Guinness</figcaption>
-</figure>
+
+<div class="profile-image"> 
+  <img src="../public/hobbies/Profile.png" alt="profile image" width="200px">
+</div>
 
 <strong>I'm a Dublin-based junior full stack developer and registered architect, who loves designing and building things, recently with code.<strong>
 
@@ -20,6 +18,10 @@ When Covid hit, suddenly I had a completely new routine. Every morning instead o
 
 Working in architecture involves a lot of drawings and 3D representations of designs, my roles frequently had me exploring new software to achieve this. Back in 2016 I had looked into Python, which can be used in conjunction with architecture software, like Autodesk Revit, to automate processes and build more complex things. Unfortunately, some if/else statements are as far as I got. It was only when I understood the workflow and design processes that go into developing and maintaining code, I began to see the possibilities.
 
-Once I heard about someone who had completely changed their career through a coding bootcamp, I began to think that this was something I could do. After a few months of teaching myself to code via online resources, I knew this was what I wanted to do for my career, culminating in my decision to join the selective Markers Academy bootcamp.
+Once I heard about someone who had completely changed their career through a coding bootcamp, I began to think that this was something I could do. After a few months of teaching myself to code via online resources, I knew this was what I wanted to do, culminating in my decision to join the selective Markers Academy bootcamp.
 
 I am looking for a career that lets me work on interesting new projects and continue to learn.
+
+<br>
+
+Profile image by [John Mc Guinness](https://www.johnmcguinness.art)
