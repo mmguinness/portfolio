@@ -7,7 +7,6 @@ categories: portfolio
 
 Below I have taken my previous paper-based architecture portfolio, a selection of professional and student projects, and applied simple styling in CSS. When I have more time, it would be nice to animate this with a dynamic page-turning effect or similar.
 
-<body>
 
 **[DTA Architects](https://dta.ie/)**  
 
@@ -19,6 +18,8 @@ Below I have taken my previous paper-based architecture portfolio, a selection o
     <img src="../../../../public/pages/03.png" alt="page three" />
   </div>
 
+<br>
+
 **[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 
   <div class="card pink">
@@ -28,6 +29,8 @@ Below I have taken my previous paper-based architecture portfolio, a selection o
   <div class="card pink">
     <img src="../../../../public/pages/05.png" alt="page five" />
   </div>
+
+<br>
 
 **[Haverstock Architects](http://haverstock.com/)**  
 
@@ -39,7 +42,9 @@ Below I have taken my previous paper-based architecture portfolio, a selection o
     <img src="../../../../public/pages/07.png" alt="page seven" />
   </div>
 
-## Student Projects
+<br>
+
+<h2>Student Projects</h2>
 
   <div class="card pink">
     <img src="../../../../public/pages/08.png" alt="page eight" />
@@ -56,5 +61,3 @@ Below I have taken my previous paper-based architecture portfolio, a selection o
   <div class="card pink">
     <img src="../../../../public/pages/11.png" alt="page eleven" />
   </div>
-
-</body>
