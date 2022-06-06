@@ -19,7 +19,7 @@ When Covid hit, suddenly I had a completely new routine. Every morning instead o
 
 Working in architecture involves a lot of information, including 2D and 3D representations of designs, my roles frequently had me exploring new software to achieve this. Back in 2016 I had looked into Python, which can be used in conjunction with architecture software, like Autodesk Revit, to automate processes and build more complex things. Some if/else statements are as far as I got at this point. It was only when I understood the workflow and design processes that go into developing and maintaining code, I began to see the possibilities.
 
-Once I heard about someone who had completely changed their career through a coding bootcamp, I began to think that this was something I could do. After a few months of teaching myself to code via online resources, I knew this was what I wanted to do, culminating in my decision to join the selective Markers Academy bootcamp.
+Once I heard about someone who had completely changed their career through a coding bootcamp, I began to think that this was something I could do. After a few months of teaching myself to code via online resources, I knew this was what I wanted to do and culminated in my decision to join the selective Markers Academy bootcamp.
 
 <br>
 
