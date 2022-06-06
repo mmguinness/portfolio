@@ -10,7 +10,7 @@ I bring a keen eye for detail, project planning, full-life-cycle thinking and it
 
 <br> 
 
-[LinkedIn](https://www.linkedin.com/in/mcguinnessmarie/) - [Education](#education) - [Employment](#employment) - [Interests](#interests) 
+[LinkedIn](https://www.linkedin.com/in/mcguinnessmarie/) - [Projects](#projects) - [Education](#education) - [Employment](#employment) - [Interests](#interests) 
 
 ## Tech Experience
 
@@ -40,6 +40,8 @@ _(which I found helpful and would recommend to anyone starting to learn to code)
 * 100 minute Tutorial on Ruby - [Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) <br>
 * Introduction to Coding with Ruby - [Udemy](https://www.udemy.com/course/newbie-to-ruby/) <br>
 * Practical Programming for Total Beginners - [Automate the boring stuff with Python](https://automatetheboringstuff.com/) <br>
+
+## Projects
 
 Student projects from Makers Academy to demonstrate what I have learnt:
 
