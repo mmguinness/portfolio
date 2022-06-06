@@ -4,9 +4,11 @@ title: CV
 permalink: /CV/
 ---
 
-### Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. 
+### I’m a former architect who loves designing and building things, recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. 
 
-I’m a former architect who loves designing and building things, recently with code. I bring a keen eye for detail, project planning, full-life-cycle thinking and iterative working methods. So far in my career, I have learnt to contribute and lead on large complex projects, working closely with design teams, consultants, building-contractors, clients, stakeholders and the public. 
+I bring a keen eye for detail, project planning, full-life-cycle thinking and iterative working methods. So far in my career, I have learnt to contribute and lead on large complex projects, working closely with design teams, consultants, building-contractors, clients, stakeholders and the public. 
+
+I am looking for a career that lets me work on interesting new projects and continue to learn.
 
 [LinkedIn](https://www.linkedin.com/in/mcguinnessmarie/) - [Education](#education) - [Employment](#employment) - [Interests](#interests) 
 
