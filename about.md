@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 <div class="profile-image"> 
-  <img src="../public/hobbies/Profile.png" alt="profile image" width="200px">
+  <img src="../public/hobbies/Profile.png" alt="profile image" >
 </div>
 
-<strong>I'm a Dublin-based junior full stack developer and registered architect, who loves designing and building things, recently with code.<strong>
+## I'm a Dublin-based junior full stack developer and registered architect, who loves designing and building things, recently with code.
 
 I have worked on a wide range of project types and architecture offices, most recently working with Metropolitan Workshop on the redevelopment of [Cromcastle Court and the Old Coal Yard](https://mmguinness.github.io/portfolio/CV/#employment) for Dublin City Council. I have experience leading construction projects including design, coordination and management.
 
@@ -24,4 +24,4 @@ I am looking for a career that lets me work on interesting new projects and cont
 
 <br>
 
-Profile image by [John Mc Guinness](https://www.johnmcguinness.art)
+_Profile image by [John Mc Guinness](https://www.johnmcguinness.art)_

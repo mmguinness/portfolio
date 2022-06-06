@@ -66,5 +66,9 @@
 }
 
 .profile-image {
-  border: solid 5px black;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
 }
