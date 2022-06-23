@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MVP: Remote book club, Part 1"
+title:  "Remote book club, Part 1: MVC"
 date:   2022-05-12 23:23:00 +0100
 categories: projects
 ---
