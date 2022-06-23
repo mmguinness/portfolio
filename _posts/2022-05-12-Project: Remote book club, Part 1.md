@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Model View Controller"
+title:  "MVP: Remote book club, Part 1"
 date:   2022-05-12 23:23:00 +0100
-categories: portfolio
+categories: projects
 ---
 
 <p align="center">
@@ -11,7 +11,7 @@ categories: portfolio
 
 Model View Controller (MVC) sketch above from my notes for week 3 of Makers Academy. It is nice to look back and realise how far I have come from needing to map out every step of the development process.
 
-To ensure my understanding of concepts like the common MVC software development pattern, I have started a [new project](https://github.com/mmguinness/remote-book-club). It is a simple website to host a remote bookclub. 
+To ensure my understanding of concepts like the common MVC software development pattern, I have started a [new project](https://github.com/mmguinness/remote-book-club). It is a simple website to host a remote book club. 
 
 I sketched up a few wireframes and ideas for my MVP. At first I want it to be really simple, just a bulletin-board of the current book, and a history of what has been read. After I achieve this I would like to add a sign-in option where my friends can log in and add their own book suggestions. This could be a good opportunity to add a database to store this info and ensure everyone can access and contribute to the site.
 

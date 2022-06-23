@@ -2,7 +2,7 @@
 layout: post
 title: "Architecture portfolio"
 date: 2022-06-05 20:23:00 +0100
-categories: portfolio
+categories: architecture
 ---
 
 Below I have taken my previous paper-based architecture portfolio, a selection of professional and student projects, and applied simple styling in CSS. When I have more time, I would like to animate this with a dynamic page-turning effect or similar.
