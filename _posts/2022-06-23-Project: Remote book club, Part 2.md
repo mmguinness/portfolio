@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remote book club, part 2"
-date: 2022-06-23 20:23:00 +0100
+date: 2022-06-23 17:00:00 +0100
 categories: projects
 ---
 
