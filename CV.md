@@ -33,7 +33,7 @@ Comfortable using Git and working with CLI
 Online courses & resources:<br>
 _(which I found helpful and would recommend to anyone starting to learn to code)_
 
-- [Codewars](https://www.codewars.com/users/mmguinness) - Total Honor 500+, Ruby (5kyu) and JavaScript (7kyu)
+- [Codewars](https://www.codewars.com/users/mmguinness) - Total Honor 500+, Ruby (5kyu) and JavaScript (6kyu)
 - JavaScript Algorithms and Data Structures Course - [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) <br>
 - Learn Ruby - [Code Academy](https://www.codecademy.com/learn/learn-ruby) <br>
 - Responsive Web Design - [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design) <br>
