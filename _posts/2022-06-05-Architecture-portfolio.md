@@ -6,13 +6,13 @@ categories: architecture
 ---
 
 <p style="text-align: center;">
-  <img alt="paper page 01" src="../../../../public/pages/Arch-portfolio-paper-01.jpg" width="23%">
+  <img alt="paper page 01" src="../../../../public/pages/Arch-portfolio-paper-01.jpg" >
 &nbsp; &nbsp; 
-  <img alt="paper page 02" src="../../../../public/pages/Arch-portfolio-paper-02.jpg" width="23%">
+  <img alt="paper page 02" src="../../../../public/pages/Arch-portfolio-paper-02.jpg" >
   &nbsp; &nbsp; 
-  <img alt="paper page 03" src="../../../../public/pages/Arch-portfolio-paper-03.jpg" width="23%">
+  <img alt="paper page 03" src="../../../../public/pages/Arch-portfolio-paper-03.jpg" >
   &nbsp; &nbsp; 
-  <img alt="paper page 04" src="../../../../public/pages/Arch-portfolio-paper-04.jpg" width="23%">
+  <img alt="paper page 04" src="../../../../public/pages/Arch-portfolio-paper-04.jpg" >
 </p>
 
 _Sample pages from previous printed version of my architecture portfolio_
