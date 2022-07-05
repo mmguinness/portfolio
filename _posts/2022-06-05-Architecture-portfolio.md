@@ -5,7 +5,20 @@ date: 2022-06-05 20:23:00 +0100
 categories: architecture
 ---
 
-Below I have taken my previous paper-based architecture portfolio, a selection of professional and student projects, and applied simple styling in CSS. When I have more time, I would like to animate this with a dynamic page-turning effect or similar.
+<p style="text-align: center;">
+  <img alt="paper page 01" src="../../../../public/pages/Arch-portfolio-paper-01.jpg" width="20%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="paper page 02" src="../../../../public/pages/Arch-portfolio-paper-02.jpg" width="20%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="paper page 03" src="../../../../public/pages/Arch-portfolio-paper-03.jpg" width="20%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="paper page 04" src="../../../../public/pages/Arch-portfolio-paper-04.jpg" width="20%">
+</p>
+
+_Sample pages from previous printed version of my architecture portfolio_
+
+
+Below I have taken the page-layouts from my past paper-based architecture portfolio, which includes a selection of professional and student projects. I have applied simple styling in CSS to indicate that it was designed to be displayed in a booklet-format. When I have more time, I would like to animate this with a dynamic page-turning effect or similar.
 
 <br>
 
