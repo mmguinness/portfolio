@@ -17,7 +17,9 @@ categories: architecture
   <img alt="paper page 04" src="../../../../public/pages/Arch-portfolio-paper-04.jpg" width="40%">
 </p>
 
-_Sample pages from previous printed version of my architecture portfolio_
+<p style="text-align: center;">
+Sample pages from previous printed version of my architecture portfolio
+</p>
 
 <br>
 
