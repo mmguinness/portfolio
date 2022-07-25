@@ -12,7 +12,7 @@ I’m a former architect who loves designing and building things, and a recent g
 
 ## Tech Experience
 
-Makers Academy **16 week immersive full-stack engineering bootcamp** with a strong focus on:
+[Makers Academy](https://makers.tech/about-us/) **16 week immersive full-stack engineering bootcamp** with a strong focus on:
 
 - Language agnostic process for learning
 - Test Driven Development _(even for codewars kata!)_
@@ -33,8 +33,9 @@ Comfortable using Git and working with CLI
 Online courses & resources:<br>
 _(which I found helpful and would recommend to anyone starting to learn to code)_
 
-- [Codewars](https://www.codewars.com/users/mmguinness) - Total Honor 600+, Ruby (5kyu) and JavaScript (6kyu)
-<img src="https://www.codewars.com/users/mmguinness/badges/large" alt="Codewar stats"> 
+- [Codewars](https://www.codewars.com/users/mmguinness) - Honor Percentile: Top 10%, Ruby (5kyu) and JavaScript (6kyu)
+<br>
+<img src="https://www.codewars.com/users/mmguinness/badges/small" alt="Codewar stats"> 
 
 
 - JavaScript Algorithms and Data Structures Course - [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) <br>
