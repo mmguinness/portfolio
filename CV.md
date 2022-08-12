@@ -103,7 +103,7 @@ Haverstock works closely with clients, creating designs to meet their needs, and
 
 ## Interests
 
-Every morning _(almost)_ I walk in Phoenix Park and listen to podcasts about architecture, design, technology, and the overlap between them. These include [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer) and [99% invisible](https://99percentinvisible.org/).
+Every morning _(almost)_ I walk in Phoenix Park and listen to podcasts about architecture, design, technology, and the overlap between them. These include [99% invisible](https://99percentinvisible.org/), [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer) and [Ladybug Podcast](https://www.ladybug.dev/about).
 
 I also enjoy [codewars](https://www.codewars.com/users/mmguinness), sketching, reading, gardening, cooking and baking sourdough bread.<br>
 
