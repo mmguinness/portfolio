@@ -21,7 +21,7 @@ I worked as part of a multi-disciplinary design team on a masterplan for 400 hom
 
 <figure>
   <figcaption>Proposed section-cut through Cromcastle Court, Dublin</figcaption>
-  <img src="../public/CromcastleSection.png" 
+  <img class="desk-image" src="../public/CromcastleSection.png" 
   alt="Cromcastle Section" 
   width="100%">
 </figure>
@@ -81,10 +81,10 @@ _(which I found helpful and would recommend to anyone starting to learn to code)
 **Podcasts:**<br>
 _(About software development, design, architecture, technology and the overlap between them)_
 
-- [Ladybug podcast](https://www.ladybug.dev/about)
+- [Ladybug Podcast](https://www.ladybug.dev/about)
 - [Complete Developer Podcast](https://completedeveloperpodcast.com/)
 - [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
-- [99% invisible](https://99percentinvisible.org/)
+- [99% Invisible](https://99percentinvisible.org/)
 - [TRXL](https://www.trxl.co/)
 - [Practice Distrupted](https://practiceofarchitecture.com/podcast/)
 - [The Future of Security Operations](https://www.tines.com/podcast/)
