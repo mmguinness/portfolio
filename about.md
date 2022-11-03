@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
   <img class="profile-image" src="../public/hobbies/Profile.png" alt="profile image" >
-  <img class="desk-image" src="../public/hobbies/Desk.png" alt="desk image" height="200" >
 
 <br>
 
