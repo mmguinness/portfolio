@@ -78,9 +78,13 @@ _(which I found helpful and would recommend to anyone starting to learn to code)
 
 <br>
 
-**Podcasts:**
+**Podcasts:**<br>
+_(About software development, design, architecture, technology and the overlap between them)_
 
-- Ladybug podcast
-- The complete Developer Podcast
-- The Laravel Podcast
-- 
+- [Ladybug podcast](https://www.ladybug.dev/about)
+- [Complete Developer Podcast](https://completedeveloperpodcast.com/)
+- [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
+- [99% invisible](https://99percentinvisible.org/)
+- [TRXL](https://www.trxl.co/)
+- [Practice Distrupted](https://practiceofarchitecture.com/podcast/)
+- [The Future of Security Operations](https://www.tines.com/podcast/)
