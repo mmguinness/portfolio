@@ -23,7 +23,7 @@ Sample pages from previous printed version of my architecture portfolio
 
 <br>
 
-Below I have taken the page-layouts from my previous paper-based architecture portfolio, which includes a selection of professional and student projects. I have applied simple styling in CSS to indicate that it was designed to be displayed in a booklet format. When I have more time, I would like to animate this with a dynamic page-turning effect or similar.
+Below I have taken the page-layouts from my previous architecture portfolio, which includes a selection of professional and student projects. I have applied simple styling in CSS to indicate that it was designed to be displayed in a booklet format. When I have more time, I would like to animate this with a dynamic page-turning effect or similar.
 
 <br>
 
