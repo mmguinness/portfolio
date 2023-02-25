@@ -12,4 +12,4 @@ permalink: /about/
 <br>
 <br>
 
-##### _Profile image by [John Mc Guinness](https://www.johnmcguinness.art)_
+##### Profile image by [John Mc Guinness](https://www.johnmcguinness.art)
