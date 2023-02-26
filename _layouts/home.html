@@ -18,7 +18,6 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {%- if post.title.input == "Student"}
             {{ post.title | escape }}
           </a>
         </h3>
