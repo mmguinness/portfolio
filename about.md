@@ -11,5 +11,5 @@ permalink: /about/
 
 ### As part of the January 2022 cohort, I completed [Makers Academy Bootcamp](https://makers.tech/).
 <br>
-<br>
-####Profile image by [John Mc Guinness](https://www.johnmcguinness.art)
+
+#### Profile image by [John Mc Guinness](https://www.johnmcguinness.art)
